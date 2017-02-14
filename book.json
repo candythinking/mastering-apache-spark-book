@@ -1,4 +1,10 @@
 {
+    "title" : "Gibook Use",
+    "description" : "spark 2.0 翻译",
+    "author" : "zhangjikai",
+    "generator": "site",
+    "language" : "zh-hans",
+    "gitbook" : "2.6.4",
     "structure": {
         "readme": "book-intro.adoc"
     },
