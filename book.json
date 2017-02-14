@@ -1,6 +1,6 @@
 {
     "structure": {
-        "readme": "README.adoc"
+        "readme": "book-intro.adoc"
     },
     "plugins": ["ga"],
     "pluginsConfig": {
